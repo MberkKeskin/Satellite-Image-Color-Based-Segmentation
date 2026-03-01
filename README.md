@@ -29,3 +29,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/satellite-segmentation.git
 cd satellite-segmentation
+py satellite_seq.py
